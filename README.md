@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mircea Stamatin</h1>
 <h3 align="center">A passionate student from Republic of Moldova</h3>
 
-- 🔭 I’m currently working as **an intern at Proceedit**
 - 🌱 I’m currently learning **LLM and ML**
 - 📫 How to reach me: **mirce.stamatin@gmail.com**
-- ⚡ Fun fact: **I am lazy, that's why I try my best to deliver the best product.**
 
 <!-- GitHub Stats Row -->
 <p align="center">
@@ -19,9 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mirceastamatin" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mircea stamatin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/sm1rkea" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm1rkea" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/missingtano" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="missingtano" height="30" width="40" />
