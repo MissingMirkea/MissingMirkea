@@ -30,7 +30,6 @@ I'm a passionate Computer Science student from the Republic of Moldova, constant
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=missingmirkea&show_icons=true&theme=tokyonight&count_private=true">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=missingmirkea&show_icons=true&theme=flat&count_private=true" height="180">
   </picture>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=missingmirkea&show_icons=true&locale=en&layout=compact&theme=tokyonight">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=missingmirkea&show_icons=true&locale=en&layout=compact&theme=flat" height="180">
@@ -48,9 +47,9 @@ I'm a passionate Computer Science student from the Republic of Moldova, constant
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/mirceastamatin" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.leetcode.com/missingtano" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://discord.gg/m1rkoles" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://linkedin.com/in/mirceastamatin" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/missingtano" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://discord.gg/m1rkoles" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:mirce.stamatin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
