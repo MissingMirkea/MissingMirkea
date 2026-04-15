@@ -33,5 +33,3 @@ I'm a computer science student passionate about building digital experiences fro
 </p>
 
 <br />
-
-<p align="center">✨ Build by [MissingMirkea](https://github.com/MissingMirkea)</p>
